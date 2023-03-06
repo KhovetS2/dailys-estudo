@@ -1,4 +1,4 @@
-package estruturadedados.pilha;
+package dio.estruturadedados.pilha;
 
 public class No {
     private int dado;

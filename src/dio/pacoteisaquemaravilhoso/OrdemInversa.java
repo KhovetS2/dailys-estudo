@@ -1,4 +1,4 @@
-package pacoteisaquemaravilhoso;
+package dio.pacoteisaquemaravilhoso;
 
 public class OrdemInversa {
     public static void main(String[] args) {

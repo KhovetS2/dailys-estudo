@@ -1,4 +1,4 @@
-package pacoteisaquemaravilhoso;
+package dio.pacoteisaquemaravilhoso;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package estruturadedados;
+package dio.estruturadedados;
 
 public class No<T> {
 
